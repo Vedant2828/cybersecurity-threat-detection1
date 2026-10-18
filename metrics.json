@@ -1,0 +1,17 @@
+{
+    "test_records": 138541,
+    "accuracy": 0.9982,
+    "precision": 0.9967,
+    "recall": 0.9985,
+    "f1_score": 0.9976,
+    "confusion_matrix": [
+        [
+            87837,
+            169
+        ],
+        [
+            77,
+            50458
+        ]
+    ]
+}
